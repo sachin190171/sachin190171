@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachin190171
+- 👋 Hi, I’m sachin negi
 - 👀 I’m interested in webdevelopment
 - 🌱 I’m currently learning wordpress and php
 - 💞️ I’m looking to collaborate on html, css, js
