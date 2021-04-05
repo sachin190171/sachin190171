@@ -2,7 +2,9 @@
 - 👀 I’m interested in webdevelopment
 - 🌱 I’m currently learning wordpress and php
 - 💞️ I’m looking to collaborate on html, css, js
-- 📫 How to reach me through mail
+- 📫 you can reach me through e-mail:- sachin.negi18@icloud.com
+- 🔗 you can connect through linkedin :- https://www.linkedin.com/in/sachin-negi-12297418b
+- 📷 lets talk at instagram:- https://www.instagram.com/sachin_negi18/
 
 <!---
 sachin190171/sachin190171 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
